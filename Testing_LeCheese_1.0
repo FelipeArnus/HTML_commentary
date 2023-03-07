@@ -3,7 +3,16 @@
     <title>Fiap</title> <!--| Titulo da pagina |-->
 
     <body> <!--| formato preparando o texto |-->
-     <h1>GurenLagan</h1> <!--| Escreve no html |-->
+    <font face = "copperplate">  <!--| muda fonte |-->
+    <p style="color: red"> <!--| muda cor |-->
+
+    <font size = 30>GurenLagan</font> <!--| muda tamanho da fonte para especifico |-->
+
+     HumnaHumna
+     ralo
+
+    </p> 
+    </font>   
     </body>
 
-    </html> <!--| fecha a main |-->
+    </html> 
