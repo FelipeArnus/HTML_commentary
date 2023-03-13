@@ -3,15 +3,16 @@
     <title>Fiap</title> <!--| Titulo da pagina |-->
 
     <body> <!--| formato preparando o texto |-->
-    <font face = "copperplate">  <!--| muda fonte |-->
-    <p style="color: red"> <!--| muda cor |-->
+
+    <font face = "copperplate"></font>  <!--| muda fonte |-->
+    <p style="color: red"></p>   <!--| muda cor |-->
 
     <font size = 30>GurenLagan</font> <!--| muda tamanho da fonte para especifico |-->
 
-    <img src "humus.jpg" alt="erro">
+    <img src = "humus.jpg" alt="erro"> <!--| coloca imagem no bagulho |-->
 
-    </p> 
-    </font>   
+    <button onclick="alert('Slurm-Invasion')">GUDÃO</button> <!--| Cria um botão que fala 'Slurm-Invasion' |-->
+
     </body>
 
 
