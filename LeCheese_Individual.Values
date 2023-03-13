@@ -14,13 +14,4 @@
     
     <button onclick="alert('Slurm-Invasion')">GUDÃO</button> //Cria um botão que fala 'Slurm-Invasion'
     
-    
-
-__________________________________________________________________________________________________________________________________________________________________________
-
-Variaveis em JavaScript para HTML
-
-var -> 
-const ->
-let -> 
-
+  
